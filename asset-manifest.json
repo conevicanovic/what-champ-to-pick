@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/what-champ-to-pick/static/css/main.34c79f4f.css",
+    "main.js": "/what-champ-to-pick/static/js/main.2e545aeb.js",
+    "static/js/787.8b3a4a9d.chunk.js": "/what-champ-to-pick/static/js/787.8b3a4a9d.chunk.js",
+    "index.html": "/what-champ-to-pick/index.html",
+    "main.34c79f4f.css.map": "/what-champ-to-pick/static/css/main.34c79f4f.css.map",
+    "main.2e545aeb.js.map": "/what-champ-to-pick/static/js/main.2e545aeb.js.map",
+    "787.8b3a4a9d.chunk.js.map": "/what-champ-to-pick/static/js/787.8b3a4a9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34c79f4f.css",
+    "static/js/main.2e545aeb.js"
+  ]
+}
